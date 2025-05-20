@@ -1,0 +1,17 @@
+{
+  "devCommand": "vite --port $PORT",
+  "env": {
+    "DATABASE_URL": "postgresql://neondb_owner:npg_4ZBsLOSgv5ja@ep-lingering-morning-a4y8dqrh-pooler.us-east-1.aws.neon.tech/directory?sslmode=require"
+  },
+  "headers": [
+    {
+      "source": "/api/import_listings",
+      "headers": [
+        { "key": "Access-Control-Allow-Credentials", "value": "true" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }, 
+        { "key": "Access-Control-Allow-Methods", "value": "POST, OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization" }
+      ]
+    }
+  ]
+}

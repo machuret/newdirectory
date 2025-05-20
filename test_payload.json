@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Hecho En Mexico Adelaide",
+    "price": "A$20–40",
+    "categoryName": "Mexican restaurant",
+    "address": "12 Peel St, Adelaide SA 5000, Australia",
+    "neighborhood": null,
+    "street": "12 Peel St",
+    "city": "Adelaide",
+    "postalCode": "5000",
+    "state": "South Australia",
+    "countryCode": "AU",
+    "website": "https://hechoenmexico.com.au/peel-street/",
+    "phone": "+61 414 805 940",
+    "phoneUnformatted": "+61414805940",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -34.9234817,
+      "lng": 138.5981623
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe6WNNwDPsGoRQ5taZLsCs0k",
+    "categories": [
+      "Mexican restaurant"
+    ],
+    "fid": "0x6ab0cf00378da57b:0x49b302bb645a9b43",
+    "cid": "5310591389465746243",
+    "reviewsCount": 334,
+    "imagesCount": 275,
+    "imageCategories": [
+      "All",
+      "Latest",
+      "Videos",
+      "Menu",
+      "Food & drink",
+      "Vibe",
+      "Nachos",
+      "Margarita",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2025-05-08T06:47:32.243Z",
+    "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/0njhIZShgXE?source=pa&opi=79508299&hl=en-US&gei=glMcaKazOOnbwN4PuoPnsAg&sourceurl=https://www.google.com/service/MapsPlaceService/GetPlace?hl%3Den%26authuser%3D0%26gl%3Dus%26q%3DHecho%2BEn%2BMexico%2BAdelaide",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11:30 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:30 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 to 9:30 PM"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "EL Mexicano kitchen & Bar",
+        "reviewsCount": 664,
+        "totalScore": 4.7
+      },
+      {
+        "category": "People also search for",
+        "title": "Mexican Society",
+        "reviewsCount": 991,
+        "totalScore": 4.2
+      },
+      {
+        "category": "People also search for",
+        "title": "La Chiva Taqueria",
+        "reviewsCount": 50,
+        "totalScore": 4.7
+      },
+      {
+        "category": "People also search for",
+        "title": "Que Onda Wey! Adelaide",
+        "reviewsCount": 306,
+        "totalScore": 4.9
+      },
+      {
+        "category": "People also search for",
+        "title": "Zapata's Mexican Restaurant",
+        "reviewsCount": 765,
+        "totalScore": 4.1
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "margaritas",
+        "count": 30
+      },
+      {
+        "title": "cocktails",
+        "count": 21
+      },
+      {
+        "title": "food and service",
+        "count": 11
+      },
+      {
+        "title": "the menu",
+        "count": 10
+      },
+      {
+        "title": "portion size",
+        "count": 8
+      },
+      {
+        "title": "birthday",
+        "count": 7
+      },
+      {
+        "title": "paella",
+        "count": 6
+      },
+      {
+        "title": "prawn tacos",
+        "count": 5
+      },
+      {
+        "title": "chimichanga",
+        "count": 5
+      },
+      {
+        "title": "tequila",
+        "count": 5
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Outdoor seating": true
+        },
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Takeout": true
+        },
+        {
+          "Dine-in": true
+        }
+      ],
+      "Highlights": [
+        {
+          "Great beer selection": true
+        }
+      ],
+      "Popular for": [
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        },
+        {
+          "Solo dining": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Alcohol": true
+        },
+        {
+          "Beer": true
+        },
+        {
+          "Cocktails": true
+        },
+        {
+          "Food": true
+        },
+        {
+          "Hard liquor": true
+        },
+        {
+          "Late-night food": true
+        },
+        {
+          "Quick bite": true
+        },
+        {
+          "Small plates": true
+        },
+        {
+          "Wine": true
+        }
+      ],
+      "Dining options": [
+        {
+          "Brunch": true
+        },
+        {
+          "Lunch": true
+        },
+        {
+          "Dinner": true
+        }
+      ]
+    },
+    "reviews": [],
+    "image_urls": []
+  }
+]
